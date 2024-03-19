@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Contact us:-</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+  </head>
+  <body onclick="sign_out()">
+    <nav>
+      <input type="checkbox" id="check" />
+      <label for="check" class="checkbtn">
+        <i class="fa fa-bars"></i>
+      </label>
+
+      <ul class="left">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a class="active" href="contact.html">Contact</a></li>
+      </ul>
+      <label class="logo">KONICHIWA</label>
+
+      <ul class="right">
+        <li>
+          <span onclick="showcart()" class="cart-icon">
+            <i class="fa fa-cart-plus" >
+                <span class="cart-count" style="font-size: 12px;color: red;">0</span>
+            </i>
+        </span>
+        </li>
+        <li>
+          <span onmouseenter="sign_in()" class="icon" id="profile"
+            ><i class="far fa-user"></i
+          ></span>
+        </li>
+      </ul>
+    </nav>
+    <div id="login"></div>
+    <div class="cart visible">
+      <h2>Shopping Cart</h2>
+      <div class="listCart">
+          
+      </div>
+      <div class="cartbutton">
+          <button class="btn">Buy Now</button>
+      </div>
+  </div>
+
+    <div class="section1">
+      <h1>Contact</h1>
+      <p>
+        We would love to respond to your queries and help you succeed.<br />Feel
+        free to get in touch with us.
+      </p>
+    </div>
+
+    <div class="Contact-box">
+      <div class="Contact-left">
+        <div class="left">
+          <h3>Contact Us</h3>
+          <form action="" method="get">
+            <label class="form" for="fname">First Name*</label>
+            <input class="form" type="text" id="fname" />
+            <label class="form" for="lname">Last Name*</label>
+            <input class="form" type="text" id="lname" />
+            <label class="form" for="email">Email*</label>
+            <input class="form" type="email" id="email" />
+            <label class="form" for="ph">Phone Number</label>
+            <input class="form" type="number" id="ph" />
+            <label class="form" for="sub">Subject</label>
+            <input class="form" type="text" id="sub" />
+            <label class="form" for="message">Message</label>
+            <input
+              class="form"
+              type="text"
+              style="line-height: 100px"
+              id="message"
+            />
+            <input class="Btn" type="button" value="Submit" />
+          </form>
+        </div>
+        <div class="right">
+          <div class="img">
+          </div>
+          <h3>Location</h3>
+          <p>
+            MAKAUT Haringhata <br />
+            712134
+          </p>
+          <h3>Hours</h3>
+          <p>
+            Mon - Fri 9:00 am – 5:00 pm <br />
+            Saturday 9:00 am – 2:00 pm <br />
+            ​Sunday 9:00 am – 2:00 pm
+          </p>
+        </div>
+      </div>
+
+      <div class="Contact-right"></div>
+      
+    </div>
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="footer-col">
+            <h4>KONICHIWA</h4>
+            <ul>
+              <li><a href="#">about us</a></li>
+              <li><a href="#">our services</a></li>
+              <li><a href="#">privacy policy</a></li>
+              <li><a href="#">affiliate program</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4>get help</h4>
+            <ul>
+              <li><a href="#">FAQ</a></li>
+              <li><a href="#">shipping</a></li>
+              <li><a href="#">returns</a></li>
+              <li><a href="#">order status</a></li>
+              <li><a href="#">payment options</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4>Quick shop</h4>
+            <ul>
+              <li><a href="#">accessories</a></li>
+              <li><a href="#">groceries</a></li>
+              <li><a href="#">daily care</a></li>
+              <li><a href="#">clothing</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4>follow us on</h4>
+            <div class="social-links">
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+  <script src="index.js"></script>
+</html>

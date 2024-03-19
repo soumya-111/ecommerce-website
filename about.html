@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+</head>
+<body onclick="sign_out()">
+    <nav>
+        <input type="checkbox" id="check" />
+        <label for="check" class="checkbtn">
+          <i class="fa fa-bars"></i>
+        </label>
+  
+        <ul class="left">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="shop.html">Shop</a></li>
+          <li><a class="active" href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+        <label class="logo">KONICHIWA</label>
+  
+        <ul class="right">
+          <li>
+            <span onclick="showcart()" class="cart-icon">
+              <i class="fa fa-cart-plus" >
+                  <span class="cart-count" style="font-size: 12px;color: red;">0</span>
+              </i>
+          </span>
+          </li>
+          <li>
+            <span onmouseenter="sign_in()" class="icon" id="profile"
+              ><i class="far fa-user"></i
+            ></span>
+          </li>
+        </ul>
+      </nav>
+      <div id="login"></div>
+      <div class="cart visible">
+        <h2>Shopping Cart</h2>
+        <div class="listCart">
+            
+        </div>
+        <div class="cartbutton">
+            <button class="btn">Buy Now</button>
+        </div>
+    </div>
+
+      <div class="section1">
+        <h1>About</h1>
+      </div>
+
+      <div class="section2">
+        <div class="left"></div>
+        <div class="right">
+            <h2>Our Story</h2>
+            <p>This is a space to share more about the business: who's behind it, what it does and what this site has to offer. It’s an opportunity to tell the story behind the business or describe a special service or product it offers. You can use this section to share the company history or highlight a particular feature that sets it apart from competitors.</p>
+
+            <p>Let the writing speak for itself. Keep a consistent tone and voice throughout the website to stay true to the brand image and give visitors a taste of the company’s values and personality.</p>
+        </div>
+      </div>
+
+      <div class="section3">
+        <h2>Our Values</h2>
+        <hr >
+        <div class="mid"><img src="../media/values.png" alt=""></div>
+        <hr>
+      </div>
+
+      <div class="section4">
+        <div class="left">
+            <h2>Our Philosophy</h2>
+            <p>This is a space to share more about the business: who's behind it, what it does and what this site has to offer. It’s an opportunity to tell the story behind the business or describe a special service or product it offers. You can use this section to share the company history or highlight a particular feature that sets it apart from competitors.</p>
+
+            <p>Let the writing speak for itself. Keep a consistent tone and voice throughout the website to stay true to the brand image and give visitors a taste of the company’s values and personality.</p>
+        </div>
+        <div class="right"></div>
+      </div>
+
+      <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>KONICHIWA</h4>
+                    <ul>
+                        <li><a href="#">about us</a></li>
+                        <li><a href="#">our services</a></li>
+                        <li><a href="#">privacy policy</a></li>
+                        <li><a href="#">affiliate program</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>get help</h4>
+                    <ul>
+                        <li><a href="#">FAQ</a></li>
+                        <li><a href="#">shipping</a></li>
+                        <li><a href="#">returns</a></li>
+                        <li><a href="#">order status</a></li>
+                        <li><a href="#">payment options</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Quick shop</h4>
+                    <ul>
+                        <li><a href="#">accessories</a></li>
+                        <li><a href="#">groceries</a></li>
+                        <li><a href="#">daily care</a></li>
+                        <li><a href="#">clothing</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>follow us on</h4>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+   </footer>
+    
+</body>
+<script src="index.js"></script>
+</html>

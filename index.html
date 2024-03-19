@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Page</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    />
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body onclick="sign_out()">
+    <nav>
+      <input type="checkbox" id="check" />
+      <label for="check" class="checkbtn">
+        <i class="fa fa-bars"></i>
+      </label>
+
+      <ul class="left">
+        <li><a class="active" href="index.html">Home</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+      <label class="logo">KONICHIWA</label>
+
+      <ul class="right">
+        <li>
+          <span onclick="showcart()" class="cart-icon">
+            <i class="fa fa-cart-plus" >
+                <span class="cart-count" style="font-size: 12px;color: red;">0</span>
+            </i>
+        </span>
+        </li>
+        <li>
+          <span onmouseenter="sign_in()" class="icon" id="profile"
+            ><i class="far fa-user"></i
+          ></span>
+        </li>
+      </ul>
+    </nav>
+
+    <div id="login"></div>
+  <div class="cart visible">
+      <h2>Shopping Cart</h2>
+      <div class="listCart">
+          
+      </div>
+      <div class="cartbutton">
+          <button class="btn">Buy Now</button>
+      </div>
+  </div>
+
+    <div class="home-section1">
+      <h1>Super value deals</h1>
+      <h1 style="color: rgb(248, 116, 64); font-family: sans-serif">
+        On all products
+      </h1>
+      <p>Save more with coupons & upto 70% off!</p>
+      <a class="btn" href="shop.html">Shop Now</a>
+    </div>
+
+    <div class="home-section2">
+      <h2>Best Seller</h2>
+      <div class="sec1 flex">
+        <div class="ssec1 flex">
+          <div class="card">
+            <div class="pimg "><img src="../media/Products/65.jpg " alt=""></div>
+              <div class="details clr">
+                <h6>Raymond Shirt</h6>
+                <h6><i class="fa fa-inr"></i> 1589</h6>
+              </div>
+              <div class="addtocart">
+                <a class="btn" href="shop.html">View More >>></a>
+              </div>
+          </div>
+          <div class="card">
+            <div class="pimg "><img src="../media/Products/64.jpg " alt=""></div>
+              <div class="details clr">
+                <h6> Levis Pant</h6>
+                <h6><i class="fa fa-inr"></i>1289</h6>
+              </div>
+              <div class="addtocart">
+                <a class="btn" href="shop.html">View More >>></a>
+              </div>
+          </div>
+          <div class="card">
+            <div class="pimg "><img src="../media/Products/27.jpeg " alt=""></div>
+              <div class="details clr">
+                <h6>combo br(Sunglass,Wallet,Belt)</h6>
+                <h6><i class="fa fa-inr"></i> 499</h6>
+              </div>
+              <div class="addtocart">
+                <a class="btn" href="shop.html">View More >>></a>
+              </div>
+          </div>
+          <div class="card">
+            <div class="pimg "><img src="../media/Products/29.jpeg " alt=""></div>
+              <div class="details clr">
+                <h6>Motorola Mobile</h6>
+                <h6><i class="fa fa-inr"></i> 28999</h6>
+              </div>
+              <div class="addtocart">
+                <a class="btn" href="shop.html">View More >>></a>
+              </div>
+          </div>
+          
+        </div>
+        <div class="ssec2">
+          <h2>
+            Check Out Our Trendy <br />
+            Bestseller
+          </h2>
+          <a class="btn" href="#">Shop All</a>
+        </div>
+        <!-- <h1 ALIGN="center">Check Out Our Trendy Bestseller </h1> -->
+      </div>
+    </div>
+    <div class="home-section3">
+      <h2>Brands</h2>
+      <div class="sec1">
+        <img src="../media/brand.png" alt="">
+      </div>
+    </div>
+
+    <div class="home-section4">
+      <div class="sec1"><img src="../media/phone.avif" alt=""></div>
+    </div>
+
+    <div class="home-section5">
+      <h2>Features</h2>
+      <div class="sec1 flex">
+          <div class="card"><img src="../media/shipping.png" alt="">
+              <p>Free Shipping</p>
+          </div>
+          <div class="card"> <img src="../media/cod.png" alt="">
+              <p>Cash On Delivery</p>
+          </div>
+          <div class="card "><img src="../media/return.png" alt="">
+              <p>Easy Returns</p>
+          </div>
+          <div class="card"><img src="../media/support.png" alt="">
+              <p>24/7 Customer Care</p>
+          </div>
+      </div>
+    </div>
+    <div class="home-section4 ">
+      
+      <div class="sec1"><img src="../media/phone2.avif" alt=""></div>
+      <div class="sec1"><img src="../media/phone2.avif" alt=""></div>
+      <div class="sec1"><img src="../media/phone2.avif" alt=""></div>
+    </div>
+    <footer class="footer">
+      <div class="container">
+          <div class="row">
+              <div class="footer-col">
+                  <h4>KONICHIWA</h4>
+                  <ul>
+                      <li><a href="#">about us</a></li>
+                      <li><a href="#">our services</a></li>
+                      <li><a href="#">privacy policy</a></li>
+                      <li><a href="#">affiliate program</a></li>
+                  </ul>
+              </div>
+              <div class="footer-col">
+                  <h4>get help</h4>
+                  <ul>
+                      <li><a href="#">FAQ</a></li>
+                      <li><a href="#">shipping</a></li>
+                      <li><a href="#">returns</a></li>
+                      <li><a href="#">order status</a></li>
+                      <li><a href="#">payment options</a></li>
+                  </ul>
+              </div>
+              <div class="footer-col">
+                  <h4>Quick shop</h4>
+                  <ul>
+                      <li><a href="#">accessories</a></li>
+                      <li><a href="#">groceries</a></li>
+                      <li><a href="#">daily care</a></li>
+                      <li><a href="#">clothing</a></li>
+                  </ul>
+              </div>
+              <div class="footer-col">
+                  <h4>follow us on</h4>
+                  <div class="social-links">
+                      <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      <a href="#"><i class="fab fa-twitter"></i></a>
+                      <a href="#"><i class="fab fa-instagram"></i></a>
+                      <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </footer>
+
+
+  </body>
+  <script src="index.js"></script>
+</html>

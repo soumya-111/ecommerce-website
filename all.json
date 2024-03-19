@@ -1,0 +1,616 @@
+[
+    {
+      "id": 1,
+      "Image": "../media/Products/1.jpg",
+      "Price": 189,
+      "Product": "combo lipstick",
+      "Discription": " Whether you're looking for a kiss-proof or waterproof lip shade or both a long wear BLUSHIS matte lipstick is a must-have in every beauty bag. Let's be real, nobody likes reapplying. You want a formula that can take you for long time without fading, smudging, or transferring, and it's not easy to find. It's possible with brand new Blushis Liquid Matte Lipsticks which stay for long time on lips without transferring and fading. Yes but you need to avoid oily foods like French fries. BLUSHIS Liquid Lipsticks has many benefits like 1. Long Stay 2. Transfer Proof 3. Smudge Proof 4. Water Proof 5. Made in India 6. Pocket Friendly 7. Lightweight on lips 10. 100% Veg 11. Not Tested on Any Animals 12. Matte Finish Liquid Lipsticks THE BRAND Founder and Made up in India. BLUSHIS is an Indian brand that has revolutionized the rules of cosmetics by adding high quality premium products at very reasonable cost.",
+      "Origin": "India"
+    },
+    {
+      "id": 2,
+      "Image": "../media/Products/2.jpg ",
+      "Price": 200,
+      "Product": "Matte lipstick",
+      "Discription": " Whether you're looking for a kiss-proof or waterproof lip shade or both a long wear BLUSHIS matte lipstick is a must-have in every beauty bag. Let's be real, nobody likes reapplying. You want a formula that can take you for long time without fading, smudging, or transferring, and it's not easy to find. It's possible with brand new Blushis Liquid Matte Lipsticks which stay for long time on lips without transferring and fading. Yes but you need to avoid oily foods like French fries. BLUSHIS Liquid Lipsticks has many benefits like 1. Long Stay 2. Transfer Proof 3. Smudge Proof 4. Water Proof 5. Made in India 6. Pocket Friendly 7. Lightweight on lips 10. 100% Veg 11. Not Tested on Any Animals 12. Matte Finish Liquid Lipsticks THE BRAND Founder and Made up in India. BLUSHIS is an Indian brand that has revolutionized the rules of cosmetics by adding high quality premium products at very reasonable cost ",
+      "Origin": "India"
+    },
+    {
+      "id": 3,
+      "Image": "../media/Products/4.jpg",
+      "Price": 109,
+      "Product": "Matte liquid eyeliner",
+      "Discription": " List of Ingredients: Water (Aqua), Phenoxyethanol, Sodium Laureth-12 Sulfate, Sodium Dehydroacetate, Acrylates/Dimethylaminoethyl Methacrylate Copolymer, Peg-60 Hydrogenated Castor Oil, 1,2-hexanediol, Sodium Lignosulfonate, Simethicone, Polysorbate 65, Potassium Sorbate, C11-15 Pareth-7, Caprylyl Glycol, Acrylates/Ethylhexyl Acrylate Copolymer, Black 2 Ci 77266 (Nano), Butylene Glycol, Sorbic Acid, Glyceryl Stearate, Methylcellulose, Sulphuric Acid",
+      "Origin": "India"
+    },
+    {
+      "id": 4,
+      "Image": "../media/Products/5.jpg ",
+      "Price": 300,
+      "Product": "combo eyeliner",
+      "Discription": " ist of Ingredients: Water (Aqua), Phenoxyethanol, Sodium Laureth-12 Sulfate, Sodium Dehydroacetate, Acrylates/Dimethylaminoethyl Methacrylate Copolymer, Peg-60 Hydrogenated Castor Oil, 1,2-hexanediol, Sodium Lignosulfonate, Simethicone, Polysorbate 65, Potassium Sorbate, C11-15 Pareth-7, Caprylyl Glycol, Acrylates/Ethylhexyl Acrylate Copolymer, Black 2 Ci 77266 (Nano), Butylene Glycol, Sorbic Acid, Glyceryl Stearate, Methylcellulose, Sulphuric Acid",
+      "Origin": "India"
+    },
+    {
+      "id": 5,
+      "Image": "../media/Products/6.jpg",
+      "Price": 150,
+      "Product": "Eyeliner",
+      "Discription": " ist of Ingredients: Water (Aqua), Phenoxyethanol, Sodium Laureth-12 Sulfate, Sodium Dehydroacetate, Acrylates/Dimethylaminoethyl Methacrylate Copolymer, Peg-60 Hydrogenated Castor Oil, 1,2-hexanediol, Sodium Lignosulfonate, Simethicone, Polysorbate 65, Potassium Sorbate, C11-15 Pareth-7, Caprylyl Glycol, Acrylates/Ethylhexyl Acrylate Copolymer, Black 2 Ci 77266 (Nano), Butylene Glycol, Sorbic Acid, Glyceryl Stearate, Methylcellulose, Sulphuric Acid",
+      "Origin": "India"
+    },
+    {
+      "id": 6,
+      "Image": "../media/Products/7.jpg",
+      "Price": 400,
+      "Product": "Mamaearth CC hydraglow serum",
+      "Discription": " Sometimes your skin may need instant makeup when you have a meeting coming up in five minutes. For situations like these, this 9 to 5 Complexion Care Cream – Beige from Lakme will come in handy for you. If you have fair to wheatish complexion, then the beige shade of this cream could be ideal for you.Instantly Styled SkinThis cream has the combination of your daily skin cream with just the right touch of makeup, so no matter what the occasion is, it will give you instantly styled skin. Apart from giving you even skin tone, it has SPF 20 that will protect your skin from the sun.  For Moisturized SkinThis cream is light and gets easily absorbed by your skin. It moisturizes and brightens your skin, while leaving it feeling fresh and natural.",
+      "Origin": "  India"
+    },
+
+    {
+      "id": 7,
+      "Image": "../media/Products/8.jpg",
+      "Price": 250,
+      "Product": "Avon cc Cream",
+      "Discription": "Sometimes your skin may need instant makeup when you have a meeting coming up in five minutes. For situations like these, this 9 to 5 Complexion Care Cream – Beige from Lakme will come in handy for you. If you have fair to wheatish complexion, then the beige shade of this cream could be ideal for you.Instantly Styled SkinThis cream has the combination of your daily skin cream with just the right touch of makeup, so no matter what the occasion is, it will give you instantly styled skin. Apart from giving you even skin tone, it has SPF 20 that will protect your skin from the sun.  For Moisturized SkinThis cream is light and gets easily absorbed by your skin. It moisturizes and brightens your skin, while leaving it feeling fresh and natural.",
+      "Origin": "India"
+    },
+    {
+        "id": 8,
+        "Image": "../media/Products/5.jpg ",
+        "Price": 300,
+        "Product": "combo eyeliner",
+        "Discription": " ist of Ingredients: Water (Aqua), Phenoxyethanol, Sodium Laureth-12 Sulfate, Sodium Dehydroacetate, Acrylates/Dimethylaminoethyl Methacrylate Copolymer, Peg-60 Hydrogenated Castor Oil, 1,2-hexanediol, Sodium Lignosulfonate, Simethicone, Polysorbate 65, Potassium Sorbate, C11-15 Pareth-7, Caprylyl Glycol, Acrylates/Ethylhexyl Acrylate Copolymer, Black 2 Ci 77266 (Nano), Butylene Glycol, Sorbic Acid, Glyceryl Stearate, Methylcellulose, Sulphuric Acid",
+        "Origin": "India"
+      },
+    {
+      "id": 9,
+      "Image": "../media/Products/9.jpg ",
+      "Price": 189,
+      "Product": "cc cream",
+      "Discription": "Sometimes your skin may need instant makeup when you have a meeting coming up in five minutes. For situations like these, this 9 to 5 Complexion Care Cream – Beige from Lakme will come in handy for you. If you have fair to wheatish complexion, then the beige shade of this cream could be ideal for you.Instantly Styled SkinThis cream has the combination of your daily skin cream with just the right touch of makeup, so no matter what the occasion is, it will give you instantly styled skin. Apart from giving you even skin tone, it has SPF 20 that will protect your skin from the sun.  For Moisturized SkinThis cream is light and gets easily absorbed by your skin. It moisturizes and brightens your skin, while leaving it feeling fresh and natural.",
+      "Origin": "India"
+    },
+    {
+      "id": 10,
+      "Image": "../media/Products/10.jpg ",
+      "Price": 300,
+      "Product": "Hd foundation",
+      "Discription": "Sometimes your skin may need instant makeup when you have a meeting coming up in five minutes. For situations like these, this 9 to 5 Complexion Care Cream – Beige from Lakme will come in handy for you. If you have fair to wheatish complexion, then the beige shade of this cream could be ideal for you.Instantly Styled SkinThis cream has the combination of your daily skin cream with just the right touch of makeup, so no matter what the occasion is, it will give you instantly styled skin. Apart from giving you even skin tone, it has SPF 20 that will protect your skin from the sun.  For Moisturized SkinThis cream is light and gets easily absorbed by your skin. It moisturizes and brightens your skin, while leaving it feeling fresh and natural.",
+      "Origin": "India"
+    },
+    {
+      "id": 11,
+      "Image": "../media/Products/11.jpg ",
+      "Price": 300,
+      "Product": "Matte Foundation",
+      "Discription": " Sometimes your skin may need instant makeup when you have a meeting coming up in five minutes. For situations like these, this 9 to 5 Complexion Care Cream – Beige from Lakme will come in handy for you. If you have fair to wheatish complexion, then the beige shade of this cream could be ideal for you.Instantly Styled SkinThis cream has the combination of your daily skin cream with just the right touch of makeup, so no matter what the occasion is, it will give you instantly styled skin. Apart from giving you even skin tone, it has SPF 20 that will protect your skin from the sun.For Moisturized SkinThis cream is light and gets easily absorbed by your skin. It moisturizes and brightens your skin, while leaving it feeling fresh and natural.",
+      "Origin": "India"
+    },
+    {
+      "id": 12,
+      "Image": "../media/Products/12.jpg  ",
+      "Price": 349,
+      "Product": "Mascara",
+      "Discription": "Now, add extra volume to your eyelashes instantly with the Maybelline Volum Express Colossal Waterproof Mascara. This eye makeup essential contains collagen and a mega brush to give your eyelashes 9X volume without any clumps. This ophthalmologist-tested product is suitable for wearers of contact lenses. ",
+      "Origin": "India"
+    },
+    {
+      "id": 13,
+      "Image": "../media/Products/13.jpg ",
+      "Price": 189,
+      "Product": "Mascara",
+      "Discription": "Now add extra volume to your eyelashes instantly with the Maybelline Volum Express Colossal Waterproof Mascara. This eye makeup essential contains collagen and a mega brush to give your eyelashes 9X volume without any clumps. This ophthalmologist-tested product is suitable for wearers of contact lenses.",
+      "Origin": "India"
+    },
+    {
+      "id": 14,
+      "Image": "../media/Products/14.jpg ",
+      "Price": 420,
+      "Product": " Mascara",
+      "Discription": " Now, add extra volume to your eyelashes instantly with the Maybelline Volum Express Colossal Waterproof Mascara. This eye makeup essential contains collagen and a mega brush to give your eyelashes 9X volume without any clumps. This ophthalmologist-tested product is suitable for wearers of contact lenses.",
+      "Origin": "India"
+    },
+    {
+      "id": 15,
+      "Image": "../media/Products/15.jpg ",
+      "Price": 225,
+      "Product": "Kajal",
+      "Discription": " The key to breath-taking eye makeup is right here! Let your eyes do all the talking with the SUGAR POP Longwear Kajal. Boasting of a highly pigmented, velvety finish, this intense formula stays put for up to 16 hours, so you�re ready to take on the world anytime, anywhere. Its ultra-creamy sweat-proof texture ensures slick lines in just one stroke and is enough to create any eye makeup look you desire. Benefits: - Richly pigmented formula - Velvety finish - Long-lasting wear up to 16 hours - Sweat-proof",
+      "Origin": "India"
+    },
+    {
+      "id": 16,
+      "Image": "../media/Products/16.jpg ",
+      "Price": 225,
+      "Product": "Kajal",
+      "Discription": " The key to breath-taking eye makeup is right here! Let your eyes do all the talking with the SUGAR POP Longwear Kajal. Boasting of a highly pigmented, velvety finish, this intense formula stays put for up to 16 hours, so you�re ready to take on the world anytime, anywhere. Its ultra-creamy sweat-proof texture ensures slick lines in just one stroke and is enough to create any eye makeup look you desire. Benefits: - Richly pigmented formula - Velvety finish - Long-lasting wear up to 16 hours - Sweat-proof",
+      "Origin": "India"
+    },
+    {  "id":17,
+    "Image":"../media/Products/21.jpeg",
+    "Price":699,
+    "Product":"Shoes",
+    "Description":"Shoe, Material Type  :Mesh, Closure Type :Lace-Up, Heel Type :Flatform Heel, Sole Material :Ethylene Vinyl Acetate, Style :Running Shoe, Outer Material :Mesh",
+    "Origin":"India",
+    "Size":"IND-5, IND-6, IND-7, IND-8, IND-9"
+
+    },
+  
+    {  "id":18,
+    "Image": "../media/Products/18.jpeg",
+    "Price": 150,
+    "Product": "Sunglass",
+    "Description":"Branded Smooth Leg Covers Lightweight Square Kabir Singh Sunglasses are suitable for boys and men with small and medium faces. Size : 55 mm, Free Size fit to all adults Size : 55 mm, Free Size fit to all adults with small and medium faces, not suitable for too big faces.Very Suitable if You have a Trendy Beard on your face. Smooth Leg Covers, Which doesn't hurt your ears.",
+    "Origin": "India",
+    "Manufacturer ":"Elegante India, DELHI",
+    "Item Weight" : "35 g",
+    "Item Dimensions LxWxH" :" 14 x 5.4 x 4.9 Centimeters",
+    "Generic Name" :"Kabir Singh Sunglass"
+},
+{  "id":19,
+    "Image":"../media/Products/19.jpeg",
+    "Price":560,
+    "Product":"Shoes",
+    "Description":"Shoe, Material Type  : Mesh, Closure Type :Lace-Up, Heel Type :Flatform Heel, Sole Material :Ethylene Vinyl Acetate, Style :Running Shoe, Outer Material :Mesh",
+    "Origin":"India",
+    "Size":"IND-5, IND-6, IND-7, IND-8, IND-9"
+},
+{  "id":20,
+    "Image":"../media/Products/20.jpeg",
+    "Price":749,
+    "Product":"Shoes",
+    "Description":"Shoe, Material Type  :Mesh, Closure Type :Lace-Up, Heel Type :Flatform Heel, Sole Material :Ethylene Vinyl Acetate, Style :Running Shoe, Outer Material :Mesh",
+    "Origin":"India",
+    "Size":"IND-5, IND-6, IND-7, IND-8, IND-9"
+
+}, 
+{  "id":21,
+    "Image":"../media/Products/21.jpeg",
+    "Price":699,
+    "Product":"Shoes",
+    "Description":"Shoe, Material Type  :Mesh, Closure Type :Lace-Up, Heel Type :Flatform Heel, Sole Material :Ethylene Vinyl Acetate, Style :Running Shoe, Outer Material :Mesh",
+    "Origin":"India",
+    "Size":"IND-5, IND-6, IND-7, IND-8, IND-9"
+
+},
+{ "id":22,
+    "Image":"../media/Products/22.jpeg",
+    "Price":599,
+    "Product":"Shoes",
+    "Description":"Shoe, Material Type  :Mesh, Closure Type :Lace-Up, Heel Type :Flatform Heel, Sole Material :Ethylene Vinyl Acetate, Style :Running Shoe, Outer Material :Mesh",
+    "Origin":"India",
+    "Size":"IND-5, IND-6, IND-7, IND-8, IND-9"
+
+
+},
+{ "id":23,
+    "Image":"../media/Products/23.jpeg",
+    "Price": 299,
+    "Product": "Sunglass",
+    "Description":"Branded Smooth Leg Covers Lightweight Square Shahrukh Khan Sunglasses are suitable for boys and men with small and medium faces. Size : 55 mm, Free Size fit to all adults Size : 55 mm, Free Size fit to all adults with small and medium faces, not suitable for too big faces.Very Suitable if You have a Trendy Beard on your face. Smooth Leg Covers, Which doesn't hurt your ears.",
+    "Origin": "India",
+    "Manufacturer ":"Elegante India, DELHI",
+    "Item Weight" : "35 g",
+    "Item Dimensions LxWxH" :" 14 x 5.4 x 4.9 Centimeters",
+    "Generic Name" :"Shahrukh Khan Sunglass"
+
+},
+{ "id":24,
+    "Image":"../media/Products/24.jpeg",
+    "Price":1200,
+    "Product":" Leather Belt",
+    "Description":"Material Type :Leather,Closure Type :Buckle, Occasion Type :Casual, Formal, Care Instructions :Dry Cloth Clean, Non Washable",
+    "Origin":"India",
+    "Item Weight" :"300 g",
+    "Net Quantity":"1.00 count",
+    "Generic Name":"Belt"
+
+
+},
+{ "id":25,
+    "Image":"../media/Products/25.jpeg",
+    "Price":449,
+    "Product":"Shoes",
+    "Description":"Shoe, Material Type  :Mesh, Closure Type :Lace-Up, Heel Type :Flatform Heel, Sole Material :Ethylene Vinyl Acetate, Style :Running Shoe, Outer Material :Mesh",
+    "Origin":"India",
+    "Size":"IND-5, IND-6, IND-7, IND-8, IND-9"
+
+    
+},
+{ "id":26,
+    "Image":"../media/Products/26.jpeg",
+    "Price": 199,
+    "Product": "Sunglass",
+    "Description":"Branded Smooth Leg Covers Lightweight Sunglasses are suitable for boys and men with small and medium faces. Size : 55 mm, Free Size fit to all adults Size : 55 mm, Free Size fit to all adults with small and medium faces, not suitable for too big faces.Very Suitable if You have a Trendy Beard on your face. Smooth Leg Covers, Which doesn't hurt your ears.",
+    "Origin": "India",
+    "Manufacturer ":"Elegante India, DELHI",
+    "Item Weight" : "35 g",
+    "Item Dimensions LxWxH" :" 14 x 5.4 x 4.9 Centimeters"
+    
+
+},
+{ "id":27,
+    "Image":"../media/Products/27.jpeg",
+    "price":499,
+    "Product":"combo </br>(Sunglass, Wallet, Belt)",
+    "Description":"Branded Smooth Leg Covers Lightweight Square Shahrukh Khan Sunglasses are suitable for boys and men with small and medium faces. Size : 55 mm, Free Size fit to all adults Size : 55 mm, Free Size fit to all adults with small and medium faces, not suitable for too big faces.Very Suitable if You have a Trendy Beard on your face. Smooth Leg Covers, Which doesn't hurt your ears.Material Type :Leather,Closure Type :Buckle, Occasion Type :Casual, Formal, Care Instructions :Dry Cloth Clean, Non Washable, Wallet is looking so beautiful,so elegant,just looking like a wow",
+    "Origin": "India"
+
+},
+
+{ "id":28,
+    "Image":"../media/Products/28.jpeg",
+    "Price":27999,
+    "Product":"Motorola Mobile",
+    "Description":"200MP Ultra-Clear Rear Camera, Master of Photography: HONOR 90 features a 200MP Ultra-Clear Main Camera with the largest 1/1.4-inch sensor in the segment, a 12MP Ultra Wide and Macro 2-in-1 Camera, and a 2MP Depth Camera and a 50MP Selfie camera and 100° wide FOV hardware to capture exquisite photos and videos.120Hz Quad-Curved Floating AMOLED Display: The leading technology can correct the deform of images on the display, ensuring visual comfort. Equipped with a 6.7-inch/17.02cm quad-curved bezel-less display, HONOR 90 supports a high resolution of 2664x1200, 100% DCI-P3 color gamut, up to 1.07 billion colors, and segment leading peak HDR brightness of 1600 nits.",
+    "Network Type":"5G, 4G, 3G, 2G",
+    "SIM Type":"Dual sim",
+    "Warranty Summary":"1 year handset and 6 months accessories"
+
+},
+{ "id":29,
+    "Image":"../media/Products/29.jpeg",
+    "Price":22999,
+    "Product":"Motorola Mobile",
+    "Description":"200MP Ultra-Clear Rear Camera, Master of Photography: HONOR 90 features a 200MP Ultra-Clear Main Camera with the largest 1/1.4-inch sensor in the segment, a 12MP Ultra Wide and Macro 2-in-1 Camera, and a 2MP Depth Camera and a 50MP Selfie camera and 100° wide FOV hardware to capture exquisite photos and videos.120Hz Quad-Curved Floating AMOLED Display: The leading technology can correct the deform of images on the display, ensuring visual comfort. Equipped with a 6.7-inch/17.02cm quad-curved bezel-less display, HONOR 90 supports a high resolution of 2664x1200, 100% DCI-P3 color gamut, up to 1.07 billion colors, and segment leading peak HDR brightness of 1600 nits.",
+    "Network Type":"5G, 4G, 3G, 2G",
+    "SIM Type":"Dual sim",
+    "Warranty Summary":"1 year handset and 6 months accessories"
+
+
+},
+{ "id":30,
+    "Image":"../media/Products/30.jpeg",
+    "Price":18999,
+    "Product":"Motorola Mobile",
+    "Description":"200MP Ultra-Clear Rear Camera, Master of Photography: HONOR 90 features a 200MP Ultra-Clear Main Camera with the largest 1/1.4-inch sensor in the segment, a 12MP Ultra Wide and Macro 2-in-1 Camera, and a 2MP Depth Camera and a 50MP Selfe camera and 100° wide FOV hardware to capture exquisite photos and videos.120Hz Quad-Curved Floating AMOLED Display: The leading technology can correct the deform of images on the display, ensuring visual comfort. Equipped with a 6.7-inch/17.02cm quad-curved bezel-less display, HONOR 90 supports a high resolution of 2664x1200, 100% DCI-P3 color gamut, up to 1.07 billion colors, and segment leading peak HDR brightness of 1600 nits.",
+    "Network Type":"5G, 4G, 3G, 2G",
+    "SIM Type":"Dual sim",
+    "Warranty Summary":"1 year handset and 6 months accessories"
+
+
+},
+{ "id":31,
+    "Image":"../media/Products/31.jpeg",
+    "Price":20499,
+    "Product":"Motorola Mobile",
+    "Description":"200MP Ultra-Clear Rear Camera, Master of Photography: HONOR 90 features a 200MP Ultra-Clear Main Camera with the largest 1/1.4-inch sensor in the segment, a 12MP Ultra Wide and Macro 2-in-1 Camera, and a 2MP Depth Camera and a 50MP Selfie camera and 100° wide FOV hardware to capture exquisite photos and videos.120Hz Quad-Curved Floating AMOLED Display: The leading technology can correct the deform of images on the display, ensuring visual comfort. Equipped with a 6.7-inch/17.02cm quad-curved bezel-less display, HONOR 90 supports a high resolution of 2664x1200, 100% DCI-P3 color gamut, up to 1.07 billion colors, and segment leading peak HDR brightness of 1600 nits.",
+    "Network Type":"5G, 4G, 3G, 2G",
+    "SIM Type":"Dual sim",
+    "Warranty Summary":"1 year handset and 6 months accessories"
+
+
+
+},
+{ "id":32,
+    "Image":"../media/Products/32.jpeg",
+    "Price":17499,
+    "Product":"Motorola Mobile",
+    "Description":"200MP Ultra-Clear Rear Camera, Master of Photography: HONOR 90 features a 200MP Ultra-Clear Main Camera with the largest 1/1.4-inch sensor in the segment, a 12MP Ultra Wide and Macro 2-in-1 Camera, and a 2MP Depth Camera and a 50MP Selfie camera and 100° wide FOV hardware to capture exquisite photos and videos.120Hz Quad-Curved Floating AMOLED Display: The leading technology can correct the deform of images on the display, ensuring visual comfort. Equipped with a 6.7-inch/17.02cm quad-curved bezel-less display, HONOR 90 supports a high resolution of 2664x1200, 100% DCI-P3 color gamut, up to 1.07 billion colors, and segment leading peak HDR brightness of 1600 nits.",
+    "Network Type":"5G, 4G, 3G, 2G",
+    "SIM Type":"Dual sim",
+    "Warranty Summary":"1 year handset and 6 months accessories"
+
+    
+},
+{ "id":33,
+    "Image":"../media/Products/33.jpeg",
+    "Price":22499,
+    "Product":"Motorola Mobile",
+    "Description":"200MP Ultra-Clear Rear Camera, Master of Photography: HONOR 90 features a 200MP Ultra-Clear Main Camera with the largest 1/1.4-inch sensor in the segment, a 12MP Ultra Wide and Macro 2-in-1 Camera, and a 2MP Depth Camera and a 50MP Selfie camera and 100° wide FOV hardware to capture exquisite photos and videos.120Hz Quad-Curved Floating AMOLED Display: The leading technology can correct the deform of images on the display, ensuring visual comfort. Equipped with a 6.7-inch/17.02cm quad-curved bezel-less display, HONOR 90 supports a high resolution of 2664x1200, 100% DCI-P3 color gamut, up to 1.07 billion colors, and segment leading peak HDR brightness of 1600 nits.",
+    "Network Type":"5G, 4G, 3G, 2G",
+    "SIM Type":"Dual sim",
+    "Warranty Summary":"1 year handset and 6 months accessories"
+
+},
+{ "id":34,
+    "Image":"../media/Products/34.jpeg",
+    "Price":20499,
+    "Product":"Motorola Mobile",
+    "Description":"200MP Ultra-Clear Rear Camera, Master of Photography: HONOR 90 features a 200MP Ultra-Clear Main Camera with the largest 1/1.4-inch sensor in the segment, a 12MP Ultra Wide and Macro 2-in-1 Camera, and a 2MP Depth Camera and a 50MP Selfie camera and 100° wide FOV hardware to capture exquisite photos and videos.120Hz Quad-Curved Floating AMOLED Display: The leading technology can correct the deform of images on the display, ensuring visual comfort. Equipped with a 6.7-inch/17.02cm quad-curved bezel-less display, HONOR 90 supports a high resolution of 2664x1200, 100% DCI-P3 color gamut, up to 1.07 billion colors, and segment leading peak HDR brightness of 1600 nits.",
+    "Network Type":"5G, 4G, 3G, 2G",
+    "SIM Type":"Dual sim",
+    "Warranty Summary":"1 year handset and 6 months accessories"
+
+
+},
+{ "id":35,
+    "Image":"../media/Products/35.jpeg",
+    "Price":25499,
+    "Product":"Motorola Mobile",
+    "Description":"200MP Ultra-Clear Rear Camera, Master of Photography: HONOR 90 features a 200MP Ultra-Clear Main Camera with the largest 1/1.4-inch sensor in the segment, a 12MP Ultra Wide and Macro 2-in-1 Camera, and a 2MP Depth Camera and a 50MP Selfie camera and 100° wide FOV hardware to capture exquisite photos and videos. 120Hz Quad-Curved Floating AMOLED Display: The leading technology can correct the deform of images on the display, ensuring visual comfort. Equipped with a 6.7-inch/17.02cm quad-curved bezel-less display, HONOR 90 supports a high resolution of 2664x1200, 100% DCI-P3 color gamut, up to 1.07 billion colors, and segment leading peak HDR brightness of 1600 nits.",
+    "Network Type":"5G, 4G, 3G, 2G",
+    "SIM Type":"Dual sim",
+    "Warranty Summary":"1 year handset and 6 months accessories"
+
+},
+{ "id":36,
+    "Image":"../media/Products/36.jpeg",
+    "Price":18499,
+    "Product":"Motorola Mobile",
+    "Description":"200MP Ultra-Clear Rear Camera, Master of Photography: HONOR 90 features a 200MP Ultra-Clear Main Camera with the largest 1/1.4-inch sensor in the segment, a 12MP Ultra Wide and Macro 2-in-1 Camera, and a 2MP Depth Camera and a 50MP Selfie camera and 100° wide FOV hardware to capture exquisite photos and videos. 120Hz Quad-Curved Floating AMOLED Display: The leading technology can correct the deform of images on the display, ensuring visual comfort. Equipped with a 6.7-inch/17.02cm quad-curved bezel-less display, HONOR 90 supports a high resolution of 2664x1200, 100% DCI-P3 color gamut, up to 1.07 billion colors, and segment leading peak HDR brightness of 1600 nits.",
+    "Network Type":"5G, 4G, 3G, 2G",
+    "SIM Type":"Dual sim",
+    "Warranty Summary":"1 year handset and 6 months accessories"
+
+
+},
+{ "id":37,
+    "Image":"../media/Products/37.jpeg",
+    "Price":32499,
+    "Product":"Motorola Mobile",
+    "Description":"200MP Ultra-Clear Rear Camera, Master of Photography: HONOR 90 features a 200MP Ultra-Clear Main Camera with the largest 1/1.4-inch sensor in the segment, a 12MP Ultra Wide and Macro 2-in-1 Camera, and a 2MP Depth Camera and a 50MP Selfie camera and 100° wide FOV hardware to capture exquisite photos and videos.120Hz Quad-Curved Floating AMOLED Display: The leading technology can correct the deform of images on the display, ensuring visual comfort. Equipped with a 6.7-inch/17.02cm quad-curved bezel-less display, HONOR 90 supports a high resolution of 2664x1200, 100% DCI-P3 color gamut, up to 1.07 billion colors, and segment leading peak HDR brightness of 1600 nits.",
+    "Network Type":"5G, 4G, 3G, 2G",
+    "SIM Type":"Dual sim",
+    "Warranty Summary":"1 year handset and 6 months accessories"
+
+    
+},
+  
+    {
+      "id": 38,
+      "Image": "../media/Products/38.jpg ",
+      "Price": 300,
+      "Product": "Combo Bracelet",
+      "Description": " Vembley Lavish Gold Plated Multi Design Crystal Combo of 4 Bracelet for Women and Girls |  Stone Type  Crystal | Style Western | Material Alloy | Brand Vembley | Color Golden | Design Contemporary | Finishing Type Glossy ",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 39,
+      "Image": "../media/Products/39.jpg ",
+      "Price": 279,
+      "Product": " Combo Pearl Bracelet",
+      "Description": "Vembley Lavish Gold Plated Multi Design Crystal Combo of 4 Bracelet for Women and Girls |  Stone Type  Crystal | Style Western | Material Alloy | Brand Vembley | Color Golden | Design Contemporary | Finishing Type Glossy ",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 40,
+      "Image": "../media/Products/40.jpg ",
+      "Price": 75,
+      "Product": "Pearl Bracelet",
+      "Description": "Care Instructions | Keep The Product In A Cool, Dry Place. Store The Product In A Ziplock When Not In Use To Avoid  | Tarnishing Of Any Kind. Avoid Keeping The Product In Direct Sunlight For Long Hours. Avoid Bringing It In Contact With Sweat, Perfume And Moisturizer. | Pack Contains : 1 Bracelet",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 41,
+      "Image": "../media/Products/41.jpg ",
+      "Price": 185,
+      "Product": "Stone Bracelet",
+      "Description": "Segment Silver Jewellery |  Occasion Party | Plating Rhodium | Dimensions (L X W):19.05 X 1cm | Material Sterling Silver | Care Instructions | Please Remove Jewellery While Doing Activities Like Bathing,cooking,gardening Etc. When Not In Use , Please Keep The Product In Air Tight Packing/box. | Pack Contains  1 Sterling Silver Bracelet, 1 Authenticity Certificate, 1 Gift Box",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 42,
+      "Image": "../media/Products/42.jpg ",
+      "Price": 385,
+      "Product": "Pink Bangles",
+      "Description": "Material TypeGlass Metal TypeGlass | Clasp TypeBox With Tongue And Safety | Size2.4,2.6,2.8 | Gem TypeGlass | Occasion TypeFestive, Engagement, Bridal Shower, Mother's Day, Wedding, Party, Anniversary",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 43,
+      "Image": "../media/Products/43.jpg ",
+      "Price": 299,
+      "Product": "Ring Bracelet",
+      "Description": "7 Piece Gold Plated White Crystal Drop Heart Multi Designs RingSetForWomen and Grils Base Metal : Alloy Plating : Gold Plated Stone Type : Artificial StonesType : Finger Ring Net Quantity (N) : 1Sizes : Free Size 7 Piece Gold Plated White Crystal Drop Heart Multi Designs Ring Set For Women And Grils Embrace Yourself With The Charming Designer Accessories In Trend That Will Add More Grace To Your Beauty. Stylish And Alluring Artificial Rings Are Perfect Cut Out For The Suitable Attire Demanded By The Occasion.",
+  
+      "Origin": "India"
+    },
+    {
+      "id": 44,
+      "Image": "../media/Products/38.jpg ",
+      "Price": 325,
+      "Product": "Combo Bracelet",
+      "Description": " Vembley Lavish Gold Plated Multi Design Crystal Combo of 4 Bracelet for Women and Girls |  Stone Type  Crystal | Style Western | Material Alloy | Brand Vembley | Color Golden | Design Contemporary | Finishing Type Glossy ",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 45,
+      "Image": "../media/Products/45.jpg ",
+      "Price": 585,
+      "Product": "Green earings",
+      "Description": "Height: 12 cm | Width: 8.5 cm | Avoid contact with water & perfume | Every care has been taken to ensure that the product details are correct. All dimensions are measured by hand, so there might be a very slight variation. Whilst the image is a true representation of the standard product, slight variation in colour replication may occur due to lighting/flash during photography or your monitor settings. | Copper | Product Code: 600555688",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 46,
+      "Image": "../media/Products/46.jpg ",
+      "Price": 299,
+      "Product": "Couple Bracelet",
+      "Description": "Material TypeStone | Metal TypeSilver | Gem TypeNo gemstone | Chain TypeLink chain",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 47,
+      "Image": "../media/Products/47.jpg ",
+      "Price": 230,
+      "Product": "Couple Bracelet",
+      "Description": "Material TypeCotton | Metal TypeStainless Steel | Clasp TypeMagnetic | SizeFree Size (Adjustable) | Gem TypeMagnetic  | Heart Bracelets | Occasion TypeBridal Shower, Engagement, Valentines Day, New Year, Wedding, Happy Birthday, Anniversary, Memorial Day",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 48,
+      "Image": "../media/Products/48.jpg ",
+      "Price": 579,
+      "Product": "Stone earings",
+      "Description": "Avoid contact with water & perfume | Metal | Package Contains : 2 Earrings | Product Code: 466816051001 | Net Qty 1 N ",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 49,
+      "Image": "../media/Products/49.jpg ",
+      "Price": 240,
+      "Product": "Stone Small Earings",
+      "Description": "Height: 2.5 cmAvoid contact with water & perfume The actual color may slightly vary from the image shown due to lighting condition used during the photo shoot or your monitor's display Alloy Product Code: 600560818",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 50,
+      "Image": "../media/Products/50.jpg ",
+      "Price": 530,
+      "Product": "Yellow earings",
+      "Description": "Name yellow color long jhumki earrings Base Metal : Alloy Plating : Gold PlatedSizing : Non-AdjustableStone Type : Artificial Stones & Beads Type : JhumkhasNet Quantity (N) : 1designer party wear long jhumka earrings for women latest design stylish jhumki earrings",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 51,
+      "Image": "../media/Products/51.jpg ",
+      "Price": 237,
+      "Product": "Combo Rings",
+      "Description": "Name : Om Jewels Traditional Adjustable Ring Combo 3 For Women GirlsBase Metal : Alloy Plating : Gold Plated Stone Type : Artificial Stones & Beads Type : Finger Ring Net Quantity (N) : 3Sizes : Free Size Designer Collection of rings. Any fabulous outfit is incomplete without matching jewellery. A woman is completely dressed with wearing matching jewellery so it can be rightfully said that in order to dress completely .These can be wear it on different occasion,that can be adore a Women or Girl.This product consist 3 Finger Rings. This is Non-allergic Product.",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 52,
+      "Image": "../media/Products/52.jpg ",
+      "Price": 187,
+      "Product": "Combo Stone earings",
+      "Description": "Name : 7 Piece Gold Plated White Crystal Drop Heart Multi Designs RingSetForWomen and Grils Base Metal : Alloy Plating : Gold Plated Stone Type : Artificial StonesType : Finger Ring Net Quantity (N) : 1Sizes : Free Size 7 Piece Gold Plated White Crystal Drop Heart Multi Designs Ring Set For Women And Grils Embrace Yourself With The Charming Designer Accessories In Trend That Will Add More Grace To Your Beauty. Stylish And Alluring Artificial Rings Are Perfect Cut Out For The Suitable Attire Demanded By The Occasion.",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 53,
+      "Image": "../media/Products/53.jpg ",
+      "Price": 385,
+      "Product": "Stone ring",
+      "Description": "Name : Beutiful stone ring 1 Base Metal : Silver Plating : Silver Plated Stone Type : CrystalsType : Finger RingNet Quantity (N) : 1Sizes : Free SizePure silver ring 70 % silver with beutiful ring boxfree",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 54,
+      "Image": "../media/Products/54.jpg ",
+      "Price": 849,
+      "Product": "Necklace",
+      "Description": "BrandSukkhi Product Type Necklace Set SKUSKR110912ColourAcqua GreenPlating Gold Plated | OccasionWedding & Engagement | Contains1 Necklace +1 Pair of Earring +1 Maangtikka | Dimension 16 cm X 9 cmWeight 80 Grams",
+      "Origin": "India"
+    },
+  
+    {
+      "id": 55,
+      "Image": "../media/Products/55.jpg ",
+      "Price": 1189,
+      "Product": "Combo Necklace",
+      "Description": "Product : Necklace Set |Base Metal : Copper |Size : chokerStones (IF Any) - Unpolished Ruby/Emerald or Zercon Inclusion : 1 Necklace & 1 pair of earrings. Necklace with back thread Design : Handcrafted Finish : Premium Gold Finish with stones StuddedPolish of the products last for more than a year easily when handled carefully. Do not spray deodorant, perfume or soap water, detergent on the jewellery",
+  
+      "Origin": "India"
+    },
+  
+    {
+      "id": 56,
+      "Image": "../media/Products/56.jpg ",
+      "Price": 2910,
+      "Product": "Necklace Set",
+      "Description": "Items :2 Necklace 2 Pair Of Earring Color:Gold Work : Gold Plated Product id 4096708",
+      "Origin": "India"
+    },
+  
+    {
+      "id": 57,
+      "Image": "../media/Products/57.jpg ",
+      "Price": 1229,
+      "Product": "Necklace Set",
+      "Description": "Care Instructions Avoid Spraying Perfume Or Deodorant Over Jewellery. Exposure To Humidity May Cause Darkening Of Chains And Other Metal Elements. Avoid Direct Contact From Water And Other Chemicals. It Is Important To Store Handmade Jewellery Carefully. Pack Contains1 Necklace, 1 Pair Of Earrings, 1 Maangtikka",
+      "Origin": "India"
+    },
+    {
+      "id": 58,
+      "Image": "../media/Products/38.jpg ",
+      "Price": 355,
+      "Product": "Combo Bracelet",
+      "Description": " Vembley Lavish Gold Plated Multi Design Crystal Combo of 4 Bracelet for Women and Girls |  Stone Type  Crystal | Style Western | Material Alloy | Brand Vembley | Color Golden | Design Contemporary | Finishing Type Glossy ",
+  
+      "Origin": "India"
+    },
+    {
+      "id": 59,
+      "Image": "../media/Products/59.jpg ",
+      "Price": 749,
+      "Product": "Men Jacket",
+      "Colour": "Black, White, Maroon | Size:2XL,3XL | Product details Material Composition :Premium & Soft Loopknit Brushed Terry Cotton Sleeve Type :Long Sleeve | Material Type :Cotton Fit Type :Regular | Length :Standard Length |Neck Style :Hooded Neck",
+      "About this item": " Size Jacket ; Premium & Soft Loopknit Brushed Terry Cotton |Stylish & Vibrant Color-Block Pattern, Zippered |Full-Front Opening Hooded Neck with Elasticised Drawstring, Front Kangaroo Pockets, Regular Length, Regular Fit | Perfect for Winter | Season, Cool Casual, Athleisure & Evening Wear | Wash Care - Mild Wash ; Wash dark colors separately ; Disclaimer - There may be slight variation in shade and colour due to photographic effects and monitor settings",
+      "Origin": "India"
+    },
+    {
+      "id": 60,
+      "Image": "../media/Products/60.jpg ",
+      "Price": 399,
+      "Product": "Grey Pant",
+      "Discription": "Material Type Lycra |Style :CASUAL PANT | Color: LIGHT GREY,NEAVY BLUE,LIGHT GREY,WHITE | Size:28,30,32,34,36 | Closuretype :look and Eye | Care Instructions :Machine Wash | Fit Type :Regular, Straight | Pattern :Solid",
+      "Origin": "India"
+    },
+    {
+      "id": 61,
+      "Image": "../media/Products/61.jpg ",
+      "Price": 599,
+      "Product": "Grey Shirt",
+      "Discription": "Material Composition:100% Cotton | Pattern:Solid | Fit Type:Slim Fit | Sleeve Type:Long Sleeve | Collar Style:SpreadCollar | LengthStandard Length",
+      "Origin": "India"
+    },
+    {
+      "id": 62,
+      "Image": "../media/Products/62.jpg ",
+      "Price": 999,
+      "Product": "Grey Jacket",
+      "Discription": "Composition:Nylon | Style:Overcoat | Type : Regular | Length : Standard Length | Neck Style : Hooded Neck | Pattern : Solid",
+      "Origin": "India"
+    },
+    {
+      "id": 63,
+      "Image": "../media/Products/63.jpg ",
+      "Price": 489,
+      "Product": "Black Jacket",
+      "Discription": "Material Composition :Cotton | StyleDenim :Jacket | Fit Type :Regular | Length :Standard Length | Neck Style :Collared Neck | Pattern :Solid",
+      "Origin": "India"
+    },
+  
+    {
+      "id": 64,
+      "Image": "../media/Products/64.jpg ",
+      "Price": 1289,
+      "Product": "Grey Pant",
+      "Discription": "Care Instructions: Machine Wash | Fit Type: Regular | Special Features : Zip Fly Power Stretch Trouser Pant | Fit : Comfort Fit | Length : Regular Length ; Waist Type : Mid Rise | Pair it up with a solid casual shirt or a Polo and white sneakers for a stylish casual look.",
+      "Origin": "India"
+    },
+  
+    {
+      "id": 65,
+      "Image": "../media/Products/65.jpg ",
+      "Price": 289,
+      "Product": "Shirt",
+      "Discription": "Material Composition :Rayon | Fit Type : Reguler Fit | Sleeve Type :Short Sleeve Collar Style :Spread Collar | Length :Standard Length | Neck Style :Dom ",
+      "Origin": "India"
+    }
+  ]
+  
